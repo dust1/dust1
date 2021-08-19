@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dust1
 - 👀 I’m interested in coding
-- 🌱 I'm currently learning Distributed storage
+- 🌱 I'm currently learning database
 
 <!---
 - 💞️ I’m looking to collaborate on ...
