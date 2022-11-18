@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dust1
 - 🌱 I'm currently learning database
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dust1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dust1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 👀 I’m interested in coding
